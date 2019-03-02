@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "44535335024",
+    "firebase_url": "https://agragami-a7d74.firebaseio.com",
+    "project_id": "agragami-a7d74",
+    "storage_bucket": "agragami-a7d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44535335024:android:b7b30366a6ca6705",
+        "android_client_info": {
+          "package_name": "agragami.backstreet.com.agragami_msme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44535335024-ampkum0d4epbhgidtd3gftmu3ql6a9dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agragami.backstreet.com.agragami_msme",
+            "certificate_hash": "44ec6efbd783191c691ec68ef4998425ce3c826e"
+          }
+        },
+        {
+          "client_id": "44535335024-soac6322ilbttsn29k7kk0nsrqusibgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agragami.backstreet.com.agragami_msme",
+            "certificate_hash": "4046651aa87f75e817b7502bcb609dc7e01e430d"
+          }
+        },
+        {
+          "client_id": "44535335024-gajtptiakkj75cnude8c7pd4b7pctrmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1FEZDHdpPqQrXNwxzZEgzyt5B8BhZ-f4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44535335024-gajtptiakkj75cnude8c7pd4b7pctrmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44535335024:android:b3bcde7b94551d86",
+        "android_client_info": {
+          "package_name": "com.atisayajain.agragamiexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44535335024-gnuvqei66gket7shq55tmogrefd6shra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atisayajain.agragamiexpert",
+            "certificate_hash": "09090a2c8dab6de5deb24e19cd8975e72c262679"
+          }
+        },
+        {
+          "client_id": "44535335024-gajtptiakkj75cnude8c7pd4b7pctrmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1FEZDHdpPqQrXNwxzZEgzyt5B8BhZ-f4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44535335024-gajtptiakkj75cnude8c7pd4b7pctrmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
